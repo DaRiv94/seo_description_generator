@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "phrase": "{0} are the best"
+    },
+    {
+        "id": 1,
+        "phrase": "check out our {0}"
+    },
+    {
+        "id": 2,
+        "phrase": "you will not want to miss out on the {0}"
+    },
+    {
+        "id": 3,
+        "phrase": "come get {0} today"
+    },
+    {
+        "id": 4,
+        "phrase": "{0} are waiting for you"
+    },
+    {
+        "id": 5,
+        "phrase": "everyone should want some {0}"
+    }
+]
