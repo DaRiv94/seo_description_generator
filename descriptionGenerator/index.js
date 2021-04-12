@@ -1,5 +1,5 @@
-var NumberOfPhrases = require("../phrases.json").length //phrases.json
-var {getDescription} = require("../helpers") //helpers.js
+var NumberOfPhrases = require("./phrases.json").length //phrases.json
+var {getDescription} = require("./helpers") //helpers.js
 
 module.exports = async function (context, req) {
 
